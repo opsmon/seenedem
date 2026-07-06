@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Денис Коваленко — фотограф">
+  <rect width="1200" height="630" fill="#f4f0e8"/>
+  <path d="M80 80h1040v470H80z" fill="none" stroke="#232321" stroke-width="2"/>
+  <path d="M112 112h240v160H112zM848 358h240v160H848z" fill="none" stroke="#58665a" stroke-width="2"/>
+  <path d="M112 518h120M968 112h120M600 80v470" stroke="#232321" stroke-opacity=".22" stroke-width="2"/>
+  <text x="112" y="354" fill="#232321" font-family="Georgia, Times New Roman, serif" font-size="92">Денис</text>
+  <text x="112" y="448" fill="#232321" font-family="Georgia, Times New Roman, serif" font-size="92">Коваленко</text>
+  <text x="650" y="330" fill="#58665a" font-family="Arial, sans-serif" font-size="34" letter-spacing="8">ФОТОГРАФ</text>
+  <text x="650" y="386" fill="#747169" font-family="Arial, sans-serif" font-size="28">Портреты, события и живые кадры</text>
+  <text x="650" y="426" fill="#747169" font-family="Arial, sans-serif" font-size="28">без лишней постановки.</text>
+  <text x="112" y="146" fill="#747169" font-family="Arial, sans-serif" font-size="18" letter-spacing="5">35MM / KMS</text>
+</svg>

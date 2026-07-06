@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200" role="img" aria-label="Графическая рамка Комсомольск-на-Амуре">
+  <rect width="900" height="1200" fill="#10110e"/>
+  <rect x="58" y="58" width="784" height="1084" fill="#cfc8b8"/>
+  <rect x="92" y="94" width="716" height="1012" fill="#191b16"/>
+  <path d="M92 438c122-92 220-128 332-100 92 23 150 78 266 44 52-15 88-44 118-76v260c-58 57-126 92-214 96-108 5-178-48-282-55-78-5-148 18-220 66z" fill="#617368"/>
+  <path d="M92 782c98-70 184-98 282-82 116 19 176 88 302 80 50-3 92-18 132-43v369H92z" fill="#b9ad88"/>
+  <path d="M118 332h664M132 354h636M150 378h602" stroke="#d8ded2" stroke-opacity=".33" stroke-width="5" stroke-linecap="round"/>
+  <path d="M188 308l80-116 80 116M268 192v186M570 308l80-116 80 116M650 192v186" stroke="#d8ded2" stroke-opacity=".5" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="632" cy="232" r="74" fill="#d8ded2"/>
+  <path d="M146 178h236M146 224h150M146 1012h392" stroke="#f1eee7" stroke-opacity=".42" stroke-width="9" stroke-linecap="round"/>
+  <text x="146" y="102" fill="#f1eee7" fill-opacity=".55" font-family="Arial, sans-serif" font-size="22" letter-spacing="7">KMS / AMUR FRAME</text>
+  <text x="146" y="1062" fill="#f1eee7" fill-opacity=".55" font-family="Arial, sans-serif" font-size="20" letter-spacing="5">50.5503 N  137.0079 E</text>
+  <path d="M92 94h716v1012H92z" fill="none" stroke="#f1eee7" stroke-opacity=".25" stroke-width="2"/>
+</svg>
