@@ -24,11 +24,12 @@ python3 -m http.server 8080
 
 ## Деплой на GitHub Pages
 
+В проект добавлен GitHub Actions workflow: `.github/workflows/pages.yml`.
+
 1. Загрузите проект в GitHub-репозиторий.
 2. В настройках репозитория откройте `Settings` → `Pages`.
-3. В `Build and deployment` выберите `Deploy from a branch`.
-4. Укажите ветку `main` и папку `/root`.
-5. Сохраните настройки.
+3. В `Build and deployment` выберите `GitHub Actions`.
+4. Сделайте push в ветку `main` или запустите workflow `Deploy to GitHub Pages` вручную.
 
 Так как проект использует относительные пути, он корректно работает и в подпапке GitHub Pages.
 
